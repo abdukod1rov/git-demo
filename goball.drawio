@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-12T06:53:32.728Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="Ng8GOZEQVvtIDdSzcBHK" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-12T07:00:05.189Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="jEITyifQ9k_T8thQN2mf" version="24.4.0" type="github">
   <diagram name="Page-1" id="hInzUNneLPHOLosXJN6D">
-    <mxGraphModel dx="2227" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2529" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -62,16 +62,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="21fEb1tnKeL8f97w6cAR-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Authenticaton&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1">
-          <mxGeometry x="-370" y="118" width="170" height="40" as="geometry" />
+          <mxGeometry x="-374.8" y="5" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="21fEb1tnKeL8f97w6cAR-3" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Workflow.svg;" parent="1" vertex="1">
-          <mxGeometry x="-320" y="158" width="40.8" height="42" as="geometry" />
+          <mxGeometry x="-330" y="62.5" width="40.8" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="Gk8zhovMI4r60l8H3g6P-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gk8zhovMI4r60l8H3g6P-1" target="Gk8zhovMI4r60l8H3g6P-2">
+        <mxCell id="Gk8zhovMI4r60l8H3g6P-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gk8zhovMI4r60l8H3g6P-1" target="Gk8zhovMI4r60l8H3g6P-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Gk8zhovMI4r60l8H3g6P-1" value="The user go the app login apge" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-360" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="-359.6" y="128" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Gk8zhovMI4r60l8H3g6P-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gk8zhovMI4r60l8H3g6P-2" target="Gk8zhovMI4r60l8H3g6P-6">
           <mxGeometry relative="1" as="geometry" />
@@ -80,31 +80,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Gk8zhovMI4r60l8H3g6P-2" value="First time using the bot?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-359.6" y="370" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Gk8zhovMI4r60l8H3g6P-4" value="Forward to the bot" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="-310" y="310" width="120" height="30" as="geometry" />
+          <mxGeometry x="-559.6" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Gk8zhovMI4r60l8H3g6P-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gk8zhovMI4r60l8H3g6P-6" target="Gk8zhovMI4r60l8H3g6P-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Gk8zhovMI4r60l8H3g6P-6" value="Input the user for a phone number(contact share)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-159.60000000000002" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="-409.2" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Gk8zhovMI4r60l8H3g6P-8" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-225" y="368" width="50" height="30" as="geometry" />
+          <mxGeometry x="-420" y="310" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Gk8zhovMI4r60l8H3g6P-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gk8zhovMI4r60l8H3g6P-9" target="Gk8zhovMI4r60l8H3g6P-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Gk8zhovMI4r60l8H3g6P-9" value="The user send the /login command" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-559.6" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="-790" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Gk8zhovMI4r60l8H3g6P-11" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-420" y="368" width="40" height="30" as="geometry" />
+          <mxGeometry x="-645" y="310" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Gk8zhovMI4r60l8H3g6P-12" value="Generate a passcode storing it on the database(chat_id,phone_number, code" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-204.8" y="500" width="210.4" height="100" as="geometry" />
+          <mxGeometry x="-454.4" y="520" width="210.4" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Gk8zhovMI4r60l8H3g6P-14" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Components&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-680" y="80" width="110" height="30" as="geometry" />
@@ -139,19 +136,70 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Gk8zhovMI4r60l8H3g6P-30" value="Is the user already entitled with passcode?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-559.6" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="-790" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Gk8zhovMI4r60l8H3g6P-32" value="Inform that the passcode is still valid" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-440" y="630" width="120" height="60" as="geometry" />
+          <mxGeometry x="-670" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Gk8zhovMI4r60l8H3g6P-35" value="Send passcode" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-660" y="630" width="120" height="60" as="geometry" />
+          <mxGeometry x="-900" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Gk8zhovMI4r60l8H3g6P-37" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-455" y="568" width="50" height="30" as="geometry" />
+          <mxGeometry x="-670" y="555" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Gk8zhovMI4r60l8H3g6P-38" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-604.6" y="568" width="40" height="30" as="geometry" />
+          <mxGeometry x="-830" y="560" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gk8zhovMI4r60l8H3g6P-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gk8zhovMI4r60l8H3g6P-39" target="Gk8zhovMI4r60l8H3g6P-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gk8zhovMI4r60l8H3g6P-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gk8zhovMI4r60l8H3g6P-39" target="Gk8zhovMI4r60l8H3g6P-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gk8zhovMI4r60l8H3g6P-39" value="Does he have a valid passcode?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-359.6" y="228" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gk8zhovMI4r60l8H3g6P-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gk8zhovMI4r60l8H3g6P-41" target="Gk8zhovMI4r60l8H3g6P-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gk8zhovMI4r60l8H3g6P-41" value="Does he have a valid passcode?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-159.60000000000002" y="228" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gk8zhovMI4r60l8H3g6P-43" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-225" y="228" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gk8zhovMI4r60l8H3g6P-44" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;Forward to the bot&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-559.6" y="228" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gk8zhovMI4r60l8H3g6P-46" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="218" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gk8zhovMI4r60l8H3g6P-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gk8zhovMI4r60l8H3g6P-47" target="Gk8zhovMI4r60l8H3g6P-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gk8zhovMI4r60l8H3g6P-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Gk8zhovMI4r60l8H3g6P-47" target="Gk8zhovMI4r60l8H3g6P-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gk8zhovMI4r60l8H3g6P-47" value="is the passcode valid with the given user(backend)?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10.000000000000028" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gk8zhovMI4r60l8H3g6P-49" value="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="320" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gk8zhovMI4r60l8H3g6P-50" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;Enters the passcode&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="300" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Gk8zhovMI4r60l8H3g6P-51" value="is the passcode valid with the given user(backend)?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-110.00000000000003" y="485" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gk8zhovMI4r60l8H3g6P-53" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="438" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gk8zhovMI4r60l8H3g6P-55" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="485" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gk8zhovMI4r60l8H3g6P-57" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="55" y="438" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
