@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-12T06:49:02.030Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="HxLhKBB9xW7x_eMRMkeR" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-12T06:53:32.728Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="Ng8GOZEQVvtIDdSzcBHK" version="24.4.0" type="github">
   <diagram name="Page-1" id="hInzUNneLPHOLosXJN6D">
-    <mxGraphModel dx="2062" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2227" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -94,7 +94,10 @@
         <mxCell id="Gk8zhovMI4r60l8H3g6P-8" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-225" y="368" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Gk8zhovMI4r60l8H3g6P-9" value="First time using the bot?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Gk8zhovMI4r60l8H3g6P-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gk8zhovMI4r60l8H3g6P-9" target="Gk8zhovMI4r60l8H3g6P-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gk8zhovMI4r60l8H3g6P-9" value="The user send the /login command" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-559.6" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Gk8zhovMI4r60l8H3g6P-11" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -126,6 +129,29 @@
         </mxCell>
         <mxCell id="Gk8zhovMI4r60l8H3g6P-27" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-815" y="198" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gk8zhovMI4r60l8H3g6P-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gk8zhovMI4r60l8H3g6P-30" target="Gk8zhovMI4r60l8H3g6P-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gk8zhovMI4r60l8H3g6P-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.41;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Gk8zhovMI4r60l8H3g6P-30" target="Gk8zhovMI4r60l8H3g6P-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-560" y="629.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gk8zhovMI4r60l8H3g6P-30" value="Is the user already entitled with passcode?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-559.6" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gk8zhovMI4r60l8H3g6P-32" value="Inform that the passcode is still valid" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gk8zhovMI4r60l8H3g6P-35" value="Send passcode" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-660" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gk8zhovMI4r60l8H3g6P-37" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-455" y="568" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gk8zhovMI4r60l8H3g6P-38" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-604.6" y="568" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
