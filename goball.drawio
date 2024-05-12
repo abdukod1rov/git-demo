@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-12T06:12:35.241Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="x6WqlG6TkpMdUEGxfK1p" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-12T06:42:15.934Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="Kru5Zqg6FlJs16ru5047" version="24.4.0" type="github">
   <diagram name="Page-1" id="hInzUNneLPHOLosXJN6D">
-    <mxGraphModel dx="1877" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1740" dy="461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -61,11 +61,47 @@
         <mxCell id="-iIECcJNtRa6xu_7U_by-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.46;entryY=0.014;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="-iIECcJNtRa6xu_7U_by-10" target="-iIECcJNtRa6xu_7U_by-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="21fEb1tnKeL8f97w6cAR-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Authenticaton&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+        <mxCell id="21fEb1tnKeL8f97w6cAR-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Authenticaton&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="-370" y="118" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="21fEb1tnKeL8f97w6cAR-3" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Workflow.svg;" vertex="1" parent="1">
+        <mxCell id="21fEb1tnKeL8f97w6cAR-3" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Workflow.svg;" parent="1" vertex="1">
           <mxGeometry x="-320" y="158" width="40.8" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="Gk8zhovMI4r60l8H3g6P-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gk8zhovMI4r60l8H3g6P-1" target="Gk8zhovMI4r60l8H3g6P-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gk8zhovMI4r60l8H3g6P-1" value="The user go the app login apge" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gk8zhovMI4r60l8H3g6P-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gk8zhovMI4r60l8H3g6P-2" target="Gk8zhovMI4r60l8H3g6P-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gk8zhovMI4r60l8H3g6P-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gk8zhovMI4r60l8H3g6P-2" target="Gk8zhovMI4r60l8H3g6P-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gk8zhovMI4r60l8H3g6P-2" value="First time using the bot?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-359.6" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gk8zhovMI4r60l8H3g6P-4" value="Forward to the bot" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="310" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gk8zhovMI4r60l8H3g6P-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gk8zhovMI4r60l8H3g6P-6" target="Gk8zhovMI4r60l8H3g6P-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Gk8zhovMI4r60l8H3g6P-6" value="Input the user for a phone number(contact share)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-159.60000000000002" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gk8zhovMI4r60l8H3g6P-8" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-225" y="368" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gk8zhovMI4r60l8H3g6P-9" value="First time using the bot?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-559.6" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gk8zhovMI4r60l8H3g6P-11" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="368" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gk8zhovMI4r60l8H3g6P-12" value="Give ths" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-159.60000000000002" y="510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
